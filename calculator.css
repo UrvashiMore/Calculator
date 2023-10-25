@@ -8,6 +8,7 @@
     height:100vh;
     background-color: palevioletred;
     display: flex;
+    position:fixed;
     justify-content: center;   
 }
 .calculator{
